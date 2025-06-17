@@ -1,2 +1,2 @@
 This a learning tutorial test
-Just making an update to test pull
+to learn pull request
